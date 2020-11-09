@@ -11,6 +11,7 @@ TF = (9 / 5) * TC + 32
 
 public class Main {
     public static void main(String[] args) {
-       // Ваш код
+       // Ваш код 
+        /* у меня 32 разрядная ОС Win 10. Я тановил Java 8.  Не могу найти библиотеку java.base */
     }
 }
